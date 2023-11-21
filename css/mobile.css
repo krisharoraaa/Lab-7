@@ -1,0 +1,62 @@
+header{
+    background-color: rgb(162,190,232);
+    color:black;
+    background-image: url("../images/lighthouselogo.jpg");
+    background-repeat: no-repeat;
+    background-position:right center;
+    background-size: 100px 100px;
+}
+
+h1 {
+    font-size: 2em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight:500;
+    line-height:250%;
+    text-align:center;
+    text-shadow:2px 2px 10px;
+    padding-left:40px;
+    margin:0;
+    
+   }
+
+.mobile{
+    display:none;
+}
+
+.anchors{
+    height:50px;
+    border-bottom: 2px solid white;
+    padding-left:0px;
+    margin-left:0px;
+    
+}
+
+ul{
+    margin-top:0px;
+    background-color:lightsteelblue;
+}
+
+nav a{
+    padding-top:17px;
+    color:white;
+    font-size:1.1em;
+    text-decoration: none;
+}
+
+main h2{
+    color:blue;
+}
+
+.image{
+    display:none;
+}
+
+footer p{
+    text-align:center;
+    background-color:rgb(162,190,232);
+    padding:20px;
+}
+
+.display1{
+    display:none;
+}
